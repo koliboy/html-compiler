@@ -19,4 +19,12 @@ live html javascript editor ,, avascript complier github github open source ,
   * Ctr-f --> find 🔍
  * Ctr-, --> ace menu show change any mor font-size etc.🆕
 
-
+# Setup
+  sr/ index.htm === copy  Source code
+  Your site 📎
+  
+# Costimze
+  sr/ 
+  * Js
+  * css
+  Costimze other styles any more javascript
