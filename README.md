@@ -8,6 +8,8 @@ live html javascript editor ,, avascript complier github github open source ,
  * jQuery
 * Angular
 * Bootstrap
+* TypeScript
+ And more etc .........
 
 # keys
  * Ctr-i ---> editor  toggle() full Preview💯
