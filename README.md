@@ -6,6 +6,7 @@ live html javascript editor ,, avascript complier github github open source ,
  * Vue js
 * React
  * jQuery
+* Angular
 
 # keys
  * Ctr-i ---> editor  toggle() full Preview💯
