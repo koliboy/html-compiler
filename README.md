@@ -3,7 +3,7 @@ live html javascript editor ,, avascript complier github github open source ,
 
  
 # keys
- Ctr-i ---> editor  toggle() full Preview💯
+ ***Ctr-i ---> editor  toggle() full Preview💯
  Ctr-f --> find 🔍
 
 
