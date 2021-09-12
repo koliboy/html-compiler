@@ -11,7 +11,8 @@ live html javascript editor ,, avascript complier github github open source ,
 * TypeScript
  And more etc .........
 # Screenshot
-![Image of 1]
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 # keys
  * Ctr-i ---> editor  toggle() full Preview💯
   * Ctr-f --> find 🔍
