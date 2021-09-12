@@ -10,9 +10,7 @@ source/includes  => 1 https://github.com/ajaxorg/ace  (ace)
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Sample</title>
- <script>      /* consal play */ 
- (function () { Object.defineProperty(Document.prototype,"console",{set(logs){var box = document.createElement('Document-console_log_play'), parser_ = new DOMParser(), new_document =   parser_.parseFromString(logs,'text/html').body, create_log  = document.createElement('console_log_-Document_style'); box.style.cssText = "border:solid 0px gray; width:100%;min-width:100px; background:white;height:auto;display:inline-block;"+"box-shadow:1px 1px 1px red"; create_log.style.cssText = "color:black; font-size:15px;"; create_log.innerHTML  = "<span style='color:green; margin-right:8px'>>></span>"; create_log.append(new_document.innerHTML);box.append(create_log);document.body.append( box)}})})();
-  /* consal play */      </script>
+
 
                 
   <style type="text/css"> 
