@@ -1,6 +1,6 @@
 # html-compiler-javascript
 🟥 
-live html javascript editor ,, avascript complier github github open source ,
+live html javascript editor ,, online html compiler  github github open source ,
 
 # framework over
  * Vue js
